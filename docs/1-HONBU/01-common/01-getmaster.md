@@ -22,8 +22,8 @@ permalink: docs/honbu/common/getmaster
 
 ## 得意先マスタを呼び出す
 
-<a href="/docs/00HONBU/img/10-common/getmaster-tokui.PNG" target="_blank">
-<img src="/docs/00HONBU/img/10-common/getmaster-tokui.PNG" alt="search tokui">
+<a href="/docs/1-HONBU/img/01-common/getmaster-tokui.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/01-common/getmaster-tokui.PNG" alt="search tokui">
 </a>
 
 1. ①「＜＜」で選択画面を呼び出す
@@ -59,8 +59,8 @@ permalink: docs/honbu/common/getmaster
 
 ## 商品マスタを呼び出す
 
-<a href="/docs/00HONBU/img/10-common/getmaster-shohin.PNG" target="_blank">
-<img src="/docs/00HONBU/img/10-common/getmaster-shohin.PNG" alt="search shohin">
+<a href="/docs/1-HONBU/img/01-common/getmaster-shohin.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/01-common/getmaster-shohin.PNG" alt="search shohin">
 </a>
 
 1. ①「＜＜」ボタンをクリックします。

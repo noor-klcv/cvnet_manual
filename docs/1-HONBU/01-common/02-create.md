@@ -20,8 +20,8 @@ permalink: docs/honbu/common/create
 
 ## 取引データ
 
-<a href="/docs/00HONBU/img/10-common/create-torihiki.PNG" target="_blank">
-<img src="/docs/00HONBU/img/10-common/create-torihiki.PNG" alt="create-torihiki">
+<a href="/docs/1-HONBU/img/01-common/create-torihiki.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/01-common/create-torihiki.PNG" alt="create-torihiki">
 </a>
 
 業務選択【売上】- 【出荷・売上入力】をクリックします。
@@ -48,8 +48,8 @@ permalink: docs/honbu/common/create
 
 ## 最終行追加
 
-<a href="/docs/00HONBU/img/10-common/create-lastrow.PNG" target="_blank">
-<img src="/docs/00HONBU/img/10-common/create-lastrow.PNG" alt="create-lastRow">
+<a href="/docs/1-HONBU/img/01-common/create-lastrow.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/01-common/create-lastrow.PNG" alt="create-lastRow">
 </a>
 
 業務選択【売上】- 【出荷・売上入力】をクリックします。
@@ -76,8 +76,8 @@ permalink: docs/honbu/common/create
 
 ## 商品CD選択
 
-<a href="/docs/00HONBU/img/10-common/create-shohin.PNG" target="_blank">
-<img src="/docs/00HONBU/img/10-common/create-shohin.PNG" alt="create-shohin">
+<a href="/docs/1-HONBU/img/01-common/create-shohin.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/01-common/create-shohin.PNG" alt="create-shohin">
 </a>
 
 業務選択【売上】- 【出荷・売上入力】をクリックします。
@@ -102,8 +102,8 @@ permalink: docs/honbu/common/create
 ## 展開品番
 
 
-<a href="/docs/00HONBU/img/10-common/create-tenkai.PNG" target="_blank">
-<img src="/docs/00HONBU/img/10-common/create-tenkai.PNG" alt="create-tenkai">
+<a href="/docs/1-HONBU/img/01-common/create-tenkai.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/01-common/create-tenkai.PNG" alt="create-tenkai">
 </a>
 
 業務選択【売上】- 【出荷・売上入力】をクリックします。
@@ -130,8 +130,8 @@ permalink: docs/honbu/common/create
 
 ## バーコード入力
 
-<a href="/docs/00HONBU/img/10-common/create-barcode.PNG" target="_blank">
-<img src="/docs/00HONBU/img/10-common/create-barcode.PNG" alt="create-barcode">
+<a href="/docs/1-HONBU/img/01-common/create-barcode.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/01-common/create-barcode.PNG" alt="create-barcode">
 </a>
 
 業務選択【売上】- 【出荷・売上入力】をクリックします。

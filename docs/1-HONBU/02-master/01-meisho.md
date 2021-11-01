@@ -20,8 +20,8 @@ permalink: docs/honbu/master/meisho
 
 ## 項目
 
-<a href="/docs/00HONBU/img/20-master/meisho-komoku.PNG" target="_blank">
-<img src="/docs/00HONBU/img/20-master/meisho-komoku.PNG" alt="meisho komoku">
+<a href="/docs/1-HONBU/img/02-master/meisho-komoku.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/02-master/meisho-komoku.PNG" alt="meisho komoku">
 </a>
 
 ### 各マスタで使用される名称マスタ項目
@@ -70,8 +70,8 @@ Index部に各マスタのコードと表示名を登録します(管理メニ�
 
 ## 管理/作成
 
-<a href="/docs/00HONBU/img/20-master/meisho-kanri.PNG" target="_blank">
-<img src="/docs/00HONBU/img/20-master/meisho-kanri.PNG" alt="meisho kanri">
+<a href="/docs/1-HONBU/img/02-master/meisho-kanri.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/02-master/meisho-kanri.PNG" alt="meisho kanri">
 </a>
 
 ### 名称マスタの起動

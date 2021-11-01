@@ -20,8 +20,8 @@ permalink: docs/honbu/common/tran
 
 ## 検索
 
-<a href="/docs/00HONBU/img/10-common/tran-search.PNG" target="_blank">
-<img src="/docs/00HONBU/img/10-common/tran-search.PNG" alt="tran search">
+<a href="/docs/1-HONBU/img/01-common/tran-search.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/01-common/tran-search.PNG" alt="tran search">
 </a>
 
 業務選択【売上】- 【出荷・売上入力】をクリックします。
@@ -46,8 +46,8 @@ permalink: docs/honbu/common/tran
 
 ## 修正/追加
 
-<a href="/docs/00HONBU/img/10-common/tran-editAdd.PNG" target="_blank">
-<img src="/docs/00HONBU/img/10-common/tran-editAdd.PNG" alt="tran edit/add">
+<a href="/docs/1-HONBU/img/01-common/tran-editAdd.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/01-common/tran-editAdd.PNG" alt="tran edit/add">
 </a>
 
 業務選択【売上】- 【出荷・売上入力】<br>

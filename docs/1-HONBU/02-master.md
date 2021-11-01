@@ -21,14 +21,14 @@ permalink: docs/honbu/master
 
 ## CV.netマスタ概要
 
-<a href="/docs/00HONBU/img/20-master/master-overview.PNG" target="_blank">
-<img src="/docs/00HONBU/img/20-master/master-overview.PNG" alt="master overview">
+<a href="/docs/1-HONBU/img/02-master/master-overview.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/02-master/master-overview.PNG" alt="master overview">
 </a>
 
 ---
 
 ## マスタデータ
 
-<a href="/docs/00HONBU/img/20-master/master-data.PNG" target="_blank">
-<img src="/docs/00HONBU/img/20-master/master-data.PNG" alt="master data">
+<a href="/docs/1-HONBU/img/02-master/master-data.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/02-master/master-data.PNG" alt="master data">
 </a>
