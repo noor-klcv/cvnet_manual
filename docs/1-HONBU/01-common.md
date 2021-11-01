@@ -21,15 +21,19 @@ permalink: docs/honbu/common
 
 ## ログイン手順
 
-![login image](/docs/00HONBU/img/10-common/login.PNG)
+<a href="/docs/00HONBU/img/10-common/common-login.PNG" target="_blank">
+<img src="/docs/00HONBU/img/10-common/common-login.PNG" alt="login image">
+</a>
  
 デスクトップ上のCV.netをダブルクリックにて起動します 。
 
 ログイン画面起動後、LOGIN IDとパスワードを入力し、ＯＫボタンをクリックします 。
 
 ログイン後の画面
- 
-![after login](/docs/00HONBU/img/10-common/afterlogin.PNG)
+
+<a href="/docs/00HONBU/img/10-common/common-afterlogin.PNG" target="_blank">
+<img src="/docs/00HONBU/img/10-common/common-afterlogin.PNG" alt="afterlogin image">
+</a>
 
 ---
 
@@ -63,7 +67,9 @@ permalink: docs/honbu/common
 
 ## 日付選択
 
-![date operation](/docs/00HONBU/img/10-common/date.PNG)
+<a href="/docs/00HONBU/img/10-common/common-date.PNG" target="_blank">
+<img src="/docs/00HONBU/img/10-common/common-date.PNG" alt="date operation">
+</a>
 
 **業務選択【売上】- 【出荷・売上入力】をクリックします**
 
@@ -85,7 +91,9 @@ permalink: docs/honbu/common
 
 ## マスタコードを呼び出す
 
-![master code](/docs/00HONBU/img/10-common/master.PNG)
+<a href="/docs/00HONBU/img/10-common/common-master.PNG" target="_blank">
+<img src="/docs/00HONBU/img/10-common/common-master.PNG" alt="master code">
+</a>
 
 業務選択【売上】- 【出荷・売上入力】をクリックします。
 
@@ -96,10 +104,48 @@ permalink: docs/honbu/common
 
 ② 選択したいマスタ欄にカーソルを合わせて　▼　＋「F3」
 
-③選択したいマスタ欄にカーソルを合わせてCDの数字を入力し <br>
+③ 選択したいマスタ欄にカーソルを合わせてCDの数字を入力し <br>
 「F3」+「F4」
 
 
 「⇓」「↑」で選択し「Enter」で決定
 
 *一覧表示は40件までとなります。<br>それ以降を表示させたい場合は40件目を選択し<br>再度、「F3」+「F4」を押す*
+
+---
+
+## 行追加・削除機能
+
+![row add delete](/docs/00HONBU/img/10-common/common-rowAddDelete.PNG)
+
+<a href="/docs/00HONBU/img/10-common/common-rowAddDelete.PNG" target="_blank">
+<img src="/docs/00HONBU/img/10-common/common-rowAddDelete.PNG" alt="row add delete">
+</a>
+
+業務選択【売上】- 【出荷・売上入力】をクリックします。
+
+① 「修正/登録画面」
+
+②「最終行追加」または「行」追加後
+
+③「行」の数字を右クリック（１行目をクリックしています）
+
+<a href="/docs/00HONBU/img/10-common/common-rowMenu.PNG" target="_blank">
+<img src="/docs/00HONBU/img/10-common/common-rowMenu.PNG" alt="row menu">
+</a>
+
+- １行目の上へ行追加
+- １行目を削除
+- １行目の下に同じ内容が下段に追加
+- 最終行に行追加
+- カーソルが先頭行へ移動します
+- カーソルが最終行へ移動します
+- キャンセルで③を隠します
+
+
+④行挿入・行削除・Refresh
+
+<a href="/docs/00HONBU/img/10-common/common-rowConfirm.PNG" target="_blank">
+<img src="/docs/00HONBU/img/10-common/common-rowConfirm.PNG" alt="row confirm">
+</a>
+
