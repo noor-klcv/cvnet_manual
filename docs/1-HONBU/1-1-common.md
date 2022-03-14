@@ -21,7 +21,7 @@ permalink: docs/honbu/common
 
 ## ログイン手順
 
-<a href="/docs/1-HONBU/img/01-common/common-login.PNG" target="_blank">
+<a href="/docs/1-HONBU/img/1-1-common/common-login.PNG" target="_blank">
 <img src="/docs/1-HONBU/img/01-common/common-login.PNG" alt="login image">
 </a>
  
