@@ -3,7 +3,7 @@ layout: default
 title: 店舗用
 nav_order: 3
 has_children: true
-permalink: docs/tenpo
+permalink: cvnet/tenpo
 ---
 
 # 店舗用

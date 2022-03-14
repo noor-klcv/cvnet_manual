@@ -4,7 +4,7 @@ title: '取引データ'
 parent: '共通'
 grand_parent: '本部用'
 nav_order: 3
-permalink: docs/honbu/common/tran
+permalink: cvnet/honbu/common/tran
 ---
 
 # {{ page.title }}

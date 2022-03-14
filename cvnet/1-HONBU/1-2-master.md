@@ -4,7 +4,7 @@ title: 'マスタ'
 parent: '本部用'
 has_children: true
 nav_order: 2
-permalink: docs/honbu/master
+permalink: cvnet/honbu/master
 
 ---
 

@@ -4,7 +4,7 @@ title: '名称マスタ'
 parent: 'マスタ'
 grand_parent: '本部用'
 nav_order: 1
-permalink: docs/honbu/master/meisho
+permalink: cvnet/honbu/master/meisho
 ---
 
 # {{ page.title }}

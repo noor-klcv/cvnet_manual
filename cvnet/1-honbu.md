@@ -3,7 +3,7 @@ layout: default
 title: '本部用'
 nav_order: 2
 has_children: true
-permalink: docs/honbu
+permalink: cvnet/honbu
 ---
 
 # 基本操作

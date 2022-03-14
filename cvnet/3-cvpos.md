@@ -3,7 +3,7 @@ layout: default
 title: CVPOS
 nav_order: 4
 has_children: true
-permalink: docs/cvpos
+permalink: cvnet/cvpos
 ---
 
 # CVPOS
