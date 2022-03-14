@@ -22,7 +22,7 @@ permalink: docs/honbu/common
 ## ログイン手順
 
 <a href="/docs/1-HONBU/img/1-1-common/common-login.PNG" target="_blank">
-<img src="/docs/1-HONBU/img/01-common/common-login.PNG" alt="login image">
+<img src="/docs/1-HONBU/img/1-1-common/common-login.PNG" alt="login image">
 </a>
  
 デスクトップ上のCV.netをダブルクリックにて起動します 。
@@ -31,8 +31,8 @@ permalink: docs/honbu/common
 
 ログイン後の画面
 
-<a href="/docs/1-HONBU/img/01-common/common-afterlogin.PNG" target="_blank">
-<img src="/docs/1-HONBU/img/01-common/common-afterlogin.PNG" alt="afterlogin image">
+<a href="/docs/1-HONBU/img/1-1-common/common-afterlogin.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/1-1-common/common-afterlogin.PNG" alt="afterlogin image">
 </a>
 
 ---
@@ -67,8 +67,8 @@ permalink: docs/honbu/common
 
 ## 日付選択
 
-<a href="/docs/1-HONBU/img/01-common/common-date.PNG" target="_blank">
-<img src="/docs/1-HONBU/img/01-common/common-date.PNG" alt="date operation">
+<a href="/docs/1-HONBU/img/1-1-common/common-date.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/1-1-common/common-date.PNG" alt="date operation">
 </a>
 
 **業務選択【売上】- 【出荷・売上入力】をクリックします**
@@ -91,8 +91,8 @@ permalink: docs/honbu/common
 
 ## マスタコードを呼び出す
 
-<a href="/docs/1-HONBU/img/01-common/common-master.PNG" target="_blank">
-<img src="/docs/1-HONBU/img/01-common/common-master.PNG" alt="master code">
+<a href="/docs/1-HONBU/img/1-1-common/common-master.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/1-1-common/common-master.PNG" alt="master code">
 </a>
 
 業務選択【売上】- 【出荷・売上入力】をクリックします。
@@ -116,8 +116,8 @@ permalink: docs/honbu/common
 
 ## 行追加・削除機能
 
-<a href="/docs/1-HONBU/img/01-common/common-rowAddDelete.PNG" target="_blank">
-<img src="/docs/1-HONBU/img/01-common/common-rowAddDelete.PNG" alt="row add delete">
+<a href="/docs/1-HONBU/img/1-1-common/common-rowAddDelete.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/1-1-common/common-rowAddDelete.PNG" alt="row add delete">
 </a>
 
 業務選択【売上】- 【出荷・売上入力】をクリックします。
@@ -128,8 +128,8 @@ permalink: docs/honbu/common
 
 ③「行」の数字を右クリック（１行目をクリックしています）
 
-<a href="/docs/1-HONBU/img/01-common/common-rowMenu.PNG" target="_blank">
-<img src="/docs/1-HONBU/img/01-common/common-rowMenu.PNG" alt="row menu">
+<a href="/docs/1-HONBU/img/1-1-common/common-rowMenu.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/1-1-common/common-rowMenu.PNG" alt="row menu">
 </a>
 
 - １行目の上へ行追加
@@ -143,7 +143,8 @@ permalink: docs/honbu/common
 
 ④行挿入・行削除・Refresh
 
-<a href="/docs/1-HONBU/img/01-common/common-rowConfirm.PNG" target="_blank">
-<img src="/docs/1-HONBU/img/01-common/common-rowConfirm.PNG" alt="row confirm">
+<a href="/docs/1-HONBU/img/1-1-common/common-rowConfirm.PNG" target="_blank">
+<img src="/docs/1-HONBU/img/1-1-common/common-rowConfirm.PNG" alt="row confirm">
 </a>
 
+this is test
