@@ -4,7 +4,7 @@ title: 'マスタを呼び出す'
 parent: '共通'
 grand_parent: '本部用'
 nav_order: 1
-permalink: docs/honbu/common/getmaster
+permalink: cvnet/honbu/common/getmaster
 ---
 
 # {{ page.title }}

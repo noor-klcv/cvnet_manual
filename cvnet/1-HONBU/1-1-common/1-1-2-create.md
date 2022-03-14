@@ -4,7 +4,7 @@ title: '新規作成'
 parent: '共通'
 grand_parent: '本部用'
 nav_order: 2
-permalink: docs/honbu/common/create
+permalink: cvnet/honbu/common/create
 ---
 
 # {{ page.title }}
