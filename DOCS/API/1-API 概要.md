@@ -2,7 +2,7 @@
 layout: default
 has_children: false
 
-title: API 概要
+title: 1. API 概要
 parent: WEB API
 nav_order: 1
 permalink: /API/1
@@ -12,12 +12,7 @@ permalink: /API/1
 
 {: .no_toc }
 
-## Table of contents
 
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
@@ -41,3 +36,4 @@ APIを呼び出すプログラムはAuth以外はAuthで認証されたセッシ
 
 curl -c cookie.txt "http://ap01.dtpnet.co.jp:85/cv.net_userxxx/isql/api/Auth.aspx?login_id=123&password=123"
 （保存したcookieでアクセス）curl -b cookie.txt "http://ap01.dtpnet.co.jp:85/cv.net_userxxx/isql/api/Get_UserToken.aspx"
+

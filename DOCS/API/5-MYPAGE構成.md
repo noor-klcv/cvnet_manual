@@ -1,9 +1,9 @@
 ---
 layout: default
-has_children: true
+has_children: false
 
 
-title: MYPAGE構成
+title: 5. MYPAGE構成
 parent: WEB API
 nav_order: 5
 permalink: /API/5
@@ -12,11 +12,6 @@ permalink: /API/5
 # {{ page.title }}
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-5. TOC
-{:toc}
 
 ---
 

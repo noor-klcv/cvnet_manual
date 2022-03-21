@@ -2,7 +2,7 @@
 layout: default
 has_children: false
 
-title: I/F 概要
+title: 2. I/F 概要
 parent: WEB API
 nav_order: 2
 permalink: /API/2
@@ -12,11 +12,7 @@ permalink: /API/2
 
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
 
-2. TOC
-{:toc}
 
 ---
 
