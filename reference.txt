@@ -1,7 +1,0 @@
-run local server
-bundle exec jekyll serve --
-
-image
-<a href="/img/cvnet/1-1-common/common-login.PNG" target="_blank">
-<img src="/img/cvnet/1-1-common/common-login.PNG" alt="login image">
-</a>
