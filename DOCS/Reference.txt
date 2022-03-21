@@ -1,0 +1,15 @@
+run local server
+bundle exec jekyll serve --livereload
+
+
+Line break
+<BR>
+
+
+
+image
+<a href="/img/cvnet/1-1-common/common-login.PNG" target="_blank">
+<img src="/img/cvnet/1-1-common/common-login.PNG" alt="login image">
+</a>
+
+https://www.tablesgenerator.com/markdown_tables#
