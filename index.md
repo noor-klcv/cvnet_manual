@@ -14,3 +14,4 @@ Rich client three-tier multi-module applications for <br>
 apparel manufacturers, wholesalers, SPAs, and retailers
 
 ##### Version　1.0
+##### Author: Hazwaniさん

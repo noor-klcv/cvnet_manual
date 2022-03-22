@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #plugins:
 #  - jekyll-feed
 
-# remote_theme: just-the-docs/just-the-docs
+#remote_theme: just-the-docs/just-the-docs
 theme: just-the-docs
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,7 +52,7 @@ theme: just-the-docs
 #   - vendor/ruby/
 
 
-######## for edit theme ###########
+######## for editing theme ###########
 # Aux links for the upper right navigation
 aux_links:
   "this manual save location":
