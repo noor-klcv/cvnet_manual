@@ -3,3 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+*.ini
+*.ffs_db
+DOCS/sync.ffs_db
+IMG/sync.ffs_db
