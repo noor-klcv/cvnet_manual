@@ -55,9 +55,9 @@ theme: just-the-docs
 
 ######## for editing theme ###########
 # Aux links for the upper right navigation
-aux_links:
-  "this manual save location":
-    - "https://github.com/noor-klcv/cvnet_manual"
+#aux_links:
+#  "this manual save location":
+#    - "https://github.com/noor-klcv/cvnet_manual"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -69,3 +69,9 @@ back_to_top_text: "Back to top"
 footer_content: "Copyright &copy; D.T.P Inc. All rights reserved."
 
 #color_scheme: dark
+
+search_enabled: false
+
+#img URL setting global
+#imgURL: "/img/"
+imgURL: "https://klcv.com.my/wp-content/manual/"

@@ -14,11 +14,11 @@ permalink: /API/5
 
 
 ---
+{% assign img1 = "API/MYPAGE構成.png" %}
+
 
 5.1.	標準MYPAGE構成
 
 以下はLCVスマートフォンアプリにおけるMYPAGE(会員機能)の標準構成となります。
 
-<a href="/img/API/MYPAGE構成.png" target="_blank">
-<img src="/img/API/MYPAGE構成.png" alt="search tokui">
-</a>
+<a href="{{ site.imgURL | append: img1 }}" target="_blank"> <img src="{{ site.imgURL | append: img1 }}" alt="{{img1}}"></a>

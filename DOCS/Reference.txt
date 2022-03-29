@@ -12,4 +12,19 @@ image
 <img src="/img/cvnet/1-1-common/common-login.PNG" alt="login image">
 </a>
 
+
+
 https://www.tablesgenerator.com/markdown_tables#
+
+img url can be set globally
+img url from klcv.com.my
+https://klcv.com.my/wp-content/manual/API/
+
+
+new img method
+
+assign img name as variable 
+{% assign img1 = "API/2.IFŠT—v.jpeg" %}
+
+call and append
+<a href="{{ site.imgURL | append: img1 }}" target="_blank"> <img src="{{ site.imgURL | append: img1 }}" alt="{{img1}}"></a>

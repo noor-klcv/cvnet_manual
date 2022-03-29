@@ -12,10 +12,7 @@ permalink: /API/2
 
 {: .no_toc }
 
-
-
 ---
+{% assign img1 = "API/2-IF概要.jpeg" %}
 
-<a href="/img/API/2.IF概要.jpeg" target="_blank">
-<img src="/img/API/2.IF概要.jpeg" alt="search tokui">
-</a>
+<a href="{{ site.imgURL | append: img1 }}" target="_blank"> <img src="{{ site.imgURL | append: img1 }}" alt="{{img1}}"></a>
